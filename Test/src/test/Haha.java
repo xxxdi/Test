@@ -4,5 +4,6 @@ public class Haha {
 
 	public static void hehe(){
 		System.out.println("hehe");
+		System.out.println();
 	}
 }
