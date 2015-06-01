@@ -10,6 +10,10 @@ public class Haha {
 	}
 
 	public void haha(){
+
+	}
+
+	public void xixi(){
 		
 	}
 }
