@@ -6,5 +6,6 @@ public class Haha {
 		System.out.println("hehe");
 		System.out.println();
 		System.out.println();
+		System.out.println();
 	}
 }
