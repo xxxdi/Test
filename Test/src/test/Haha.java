@@ -18,6 +18,10 @@ public class Haha {
 	}
 
 	public void testLog(){
+
+	}
+
+	public void all(){
 		
 	}
 }
