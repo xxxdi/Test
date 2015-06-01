@@ -14,6 +14,10 @@ public class Haha {
 	}
 
 	public void xixi(){
+
+	}
+
+	public void testLog(){
 		
 	}
 }
