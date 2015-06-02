@@ -14,6 +14,7 @@ public class Haha {
 	}
 
 	public void xixi(){
+		System.out.println("test feature1");
 
 	}
 
