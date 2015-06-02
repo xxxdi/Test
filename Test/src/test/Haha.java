@@ -22,6 +22,10 @@ public class Haha {
 	}
 
 	public void all(){
-		
+		System.out.println("change one");
+	}
+
+	public void addOne(){
+
 	}
 }
