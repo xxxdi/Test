@@ -23,9 +23,10 @@ public class Haha {
 
 	public void all(){
 		System.out.println("change one");
+		System.out.println("test");
 	}
 
 	public void addOne(){
-
+		int i = 0;
 	}
 }
