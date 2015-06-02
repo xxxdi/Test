@@ -18,7 +18,7 @@ public class Haha {
 	}
 
 	public void testLog(){
-
+		System.out.println("222");
 	}
 
 	public void all(){
