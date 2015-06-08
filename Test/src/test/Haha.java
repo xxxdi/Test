@@ -7,10 +7,11 @@ public class Haha {
 		System.out.println();
 		System.out.println();
 		System.out.println("");
+		System.currentTimeMillis();
 	}
 
 	public void haha(){
-
+		System.currentTimeMillis();
 	}
 
 	public void xixi(){
