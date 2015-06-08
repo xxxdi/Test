@@ -8,9 +8,11 @@ public class Haha {
 		System.out.println();
 		System.out.println("");
 		System.currentTimeMillis();
+		System.currentTimeMillis();
 	}
 
 	public void haha(){
+		System.currentTimeMillis();
 		System.currentTimeMillis();
 	}
 
