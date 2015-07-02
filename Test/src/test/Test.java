@@ -8,5 +8,10 @@ public class Test {
 
 	public void xixi(int haha){
 		haha++;
+		int xixi = haha;
+	}
+
+	public void addNew(int xixi){
+		xixi++;
 	}
 }
