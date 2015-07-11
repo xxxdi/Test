@@ -42,5 +42,6 @@ public class Haha {
 
 	public void updateAfterFileNameChanged(){
 		System.out.println("yeye!");
+		int addSomething = 0;
 	}
 }
